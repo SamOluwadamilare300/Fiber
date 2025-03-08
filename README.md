@@ -20,8 +20,8 @@ This is a Go and the Fiber web framework tutorial. It provides a basic undedrsta
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/username/file-upload-service.git
-   cd file-upload-service
+  git clone https://github.com/SamOluwadamilare300/Fiber.git
+   cd 
    ```
 
 2. Install dependencies
@@ -31,7 +31,7 @@ This is a Go and the Fiber web framework tutorial. It provides a basic undedrsta
 
 3. Build the application
    ```bash
-   go build -o upload-service
+   go build -o 
    ```
 
 4. Run the service
